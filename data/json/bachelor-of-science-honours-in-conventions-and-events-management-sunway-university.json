@@ -1,0 +1,58 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-conventions-and-events-management-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In Conventions And Events Management   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Science (Honours) in Conventions and Events Management degree prepares students to lead in the global events industry by blending creative design, strategic planning, and digital innovation. In Year 1, students build a solid foundation with core subjects like Business Events and Emerging Technology for Events. Moving into Year 2, they deepen their expertise through Exhibition & Exposition Management and gain hands-on experience during an immersive 10-week internship. Students then select from three exciting specialisation streams tailored to industry trends: Adventure & Entertainment, Luxury & Prestige, or AI & Digital Solutions. In Year 3, students refine their entrepreneurial and strategic management skills through Project Realisation and Research Project. With a wide range of electives spanning F&B, travel services, and digital marketing, the programme nurtures versatile professionals ready to adapt and innovate. Graduates emerge well-equipped for dynamic careers as Convention Organisers, Event Producers, PR Managers, Destination Marketers, or specialists in VIP relations, digital events, and themed entertainment, ready to meet the growing demand in the global MICE and experience economy.",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Adventure & Amusement",
+        "Elite Travel Services",
+        "Festival & Hallmark",
+        "Elective Subject"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Adventure & Amusement",
+        "Elite Travel Services",
+        "Festival & Hallmark",
+        "Elective Subject"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking (Applicable to students who passed SPM and obtain Credit in SPM Bahasa Melayu)",
+        "Community Service for Planetary Health",
+        "Integrity and Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36320,
+    "international_usd": 8571,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Professional Convention & Exhibition Organiser",
+    "Event Producer / Manager",
+    "Destination Marketing Manager",
+    "Public relations manager",
+    "International Event Specialist"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "1e5a257b123b20086ee162adf358c873e2300d2ceaa8ca62f6006041199cdda0"
+}

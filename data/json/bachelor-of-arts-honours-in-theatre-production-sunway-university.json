@@ -1,0 +1,73 @@
+{
+  "id": "sunway:sc:bachelor-of-arts-honours-in-theatre-production-sunway-university",
+  "programme_name": "Bachelor Of Arts (Honours) In Theatre Production   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Arts (Honours) in Theatre Production is a rigorous programme covering contemporary theatre-making's dynamic practice. Students can expect to hone and sharpen their craft in performance, directing, devising design, and production management. This practice is supported by critical studies of history, context, and theory. Students also consider the production of theatre in an increasingly digital world. Further, they will graduate with basic proficiency in leadership, innovation, self-sustainability, leadership, and arts entrepreneurship. This new programme is taught by theatre practitioners and academicians with diverse experiences, viewpoints, and methodologies. In addition to lectures and practical/ studio sessions, students learn through tutorials, solo and group activities, guided research, fieldwork, and field trips. Students are given ample opportunities to network, collaborate, experiment, and find their voice through five productions within the span of three years. Students also complete a 12-week industrial placement before they graduate. Beyond the field of theatre, this programme equips students with skills that unlock broad early-career prospects in the creative industries, which include (and are not limited to): the performance, production, and/or management for film; television; radio; digital and social media; broadcasting and journalism; music and dance; events and concerts; marketing and advertising; and entertainment-leisure industries, which include malls, zoos, museums, galleries, carnivals, and theme parks. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University in addition to the Sunway University degree. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset & Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset & Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset & Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37390,
+    "international_usd": 8809,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Actor/Performer",
+    "Applied theatre practitioner",
+    "Casting agent",
+    "Director & Assistant director",
+    "Drama educator",
+    "Dramaturg, Writer & Critic",
+    "Production Designer",
+    "Production/Stage manager",
+    "Technical Crew",
+    "Theatre administrator"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "cbab1843911a1c92486a424c64ac80c6cf4d6a54b36d5d56d0751f46939525f3"
+}

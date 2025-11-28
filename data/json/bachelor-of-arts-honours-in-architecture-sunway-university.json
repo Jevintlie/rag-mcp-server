@@ -1,0 +1,55 @@
+{
+  "id": "sunway:sc:bachelor-of-arts-honours-in-architecture-sunway-university",
+  "programme_name": "Bachelor Of Arts (Honours) In Architecture   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Arts (Honours) in Architecture aims to develop a new generation of architectural graduates who demonstrate the rigour of architectural design as a creative and critical practice and its agency in contributing to the shaping of society. Positioned within the Faculty of Arts and Social Sciences, the programme collaborates with the Faculty of Engineering and Technology. Students engage in a 3-year programme, learning through making and doing, thinking and investigating, anticipating and exploring, and addressing the complexities of the built environment through design. The intersection of criticality and creativity within the architecture and the arts, anchored by a practice-led pedagogy, the programme integrates context driven and human-centred design principles with an interdisciplinary approach to produce graduates who can shape the future. Students are encouraged to craft innovative, ethical, and sustainable architectural solutions that enrich cultural and environmental narratives. Two flexible pathways allow personal focus: Experiential and Immersive Architecture, which explores how design influences human perception and interaction; and Bio-integrated Architecture, which investigates the integration of biological systems into responsive and resilient architectural designs.",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Designing for Human Experience",
+        "Immersive Technologies in Architecture",
+        "Lighting and Acoustics Design"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Designing for Human Experience",
+        "Immersive Technologies in Architecture",
+        "Lighting and Acoustics Design"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Designing for Human Experience",
+        "Immersive Technologies in Architecture",
+        "Lighting and Acoustics Design"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": null,
+    "international_usd": null,
+    "notes": ""
+  },
+  "career_prospects": [
+    "Architectural Model Specialist",
+    "AR/VR Immersive Visualiser",
+    "Assistant Architect",
+    "BIM Modeller",
+    "CAD/3D Visualiser",
+    "Design consultant",
+    "Interior Designer/ Interior Architect"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "5a26a5af3d63b1b2acc336b4715a5299ce0b59889a86b83ed17656fd8dc76026"
+}

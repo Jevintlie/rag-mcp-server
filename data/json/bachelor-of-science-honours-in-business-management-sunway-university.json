@@ -1,0 +1,51 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-business-management-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In Business Management   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview This programme provides students with a broad and in-depth knowledge of business management with flexible skills and competencies to work for any organisation or even to establish your own business in the future. The programme encourages students to explore business in the context of operations, management and the evaluation of critical business information. Students will use the tools and techniques of management to analyse, evaluate, and make informed decisions; all of which play an important role in ensuring employability and profitability in a variety of local or global businesses. This broad based programme also allows you the flexibility to pursue areas that particularly interest you through the wide range of elective subjects available. Its internship component provides you the opportunity to apply theory into practice, and prepares you to enter the workforce. On successful completion of the programme, the graduates will also be awarded with a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. In addition, successful graduates from this programme will be awarded a Level 5 / Diploma Professional Qualification in Management and Leadership from the Chartered Management Institute, U.K. “Creating TOMORROW’s socially responsible business LEADERS to make analytical and critical decisions based on emerging trends”. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Data Analytics for Business Decisions; and",
+        "Advanced Data Visualisation"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Data Analytics for Business Decisions; and",
+        "Advanced Data Visualisation"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Data Analytics for Business Decisions; and",
+        "Advanced Data Visualisation"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37700,
+    "international_usd": 8878,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Business consultant",
+    "Management consultant",
+    "Innovation manager",
+    "Operation/project manager",
+    "Strategic planner"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "fc9ed8c14301e95685e61afe6d6bd4215d235d268370ee014d0f6e9c4354a1aa"
+}

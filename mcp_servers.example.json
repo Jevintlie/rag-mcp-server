@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "sunway-rag",
+      "command": "python",
+      "args": ["-m", "src.rag_mcp.mcp.server"],
+      "env": {},
+      "timeout_ms": 120000
+    }
+  ]
+}

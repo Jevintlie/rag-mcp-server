@@ -1,0 +1,6 @@
+{ "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"rag.search.request",
+  "type":"object",
+  "required":["query"],
+  "properties":{"query":{"type":"string"},"top_k":{"type":"integer","minimum":1,"maximum":20}}
+}

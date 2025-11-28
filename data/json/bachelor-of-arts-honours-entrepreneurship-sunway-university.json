@@ -1,0 +1,49 @@
+{
+  "id": "sunway:sc:bachelor-of-arts-honours-entrepreneurship-sunway-university",
+  "programme_name": "Bachelor Of Arts (Honours) Entrepreneurship   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Do you have a BIG idea? Are you set on building a business from the ground up? It is not just about preparing a great business plan and mastering the pitch to investors. Entrepreneurs don’t follow a career path – they make their own. Drive and determination are key qualities that make a successful entrepreneur; and at Sunway University, we provide the resources and support to help you realise your full potential and propel you towards your goals. This degree focuses on in-depth knowledge of entrepreneurship through business planning, financing, marketing, management, information technology and consulting. You will explore every aspect of a business and have continuous opportunities to engage in various aspects of entrepreneurship which include innovation and creative thinking. Apart from traditional business models, you would be exposed to corporate entrepreneurship, social entrepreneurship, family business management and new ventures exploration. Through industry speakers and networking opportunities, you will gain a contextual understanding of the dynamism and vibrancy in the entrepreneurial environment throughout your experience within the programme. The Sunway Innovation Labs (iLABS) provides you with the space to begin building your business, even as you are completing your degree. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Digital Economy; and",
+        "Financial Technology"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Digital Economy; and",
+        "Financial Technology"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Digital Economy; and",
+        "Financial Technology"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36300,
+    "international_usd": 8567,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Build your own start-up!",
+    "Grow and expand your family business!",
+    "Work for any business organization that values creativity, innovation and entrepreneurial risk taking!"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "20ea39522e3cf9b9f49ee8bc5d4c3a1c06aa0142c5f1646e184c1e627516352d"
+}

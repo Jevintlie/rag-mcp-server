@@ -1,0 +1,56 @@
+{
+  "id": "sunway:sc:bachelor-of-business-analytics-honours-sunway-university",
+  "programme_name": "Bachelor Of Business Analytics (Honours)   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Business Analytics (Honours) provides students with the knowledge and applied skills in Big Data processing to effectively deal with the rapidly emerging field of Business Analytics. Using business analytics tools and techniques, students will be able to develop critical thinking and analytical skills to process Big Data for problem solving and decision making. This programme equips students with ability to transform data into powerful and predictive insights to respond to the global Big Data Revolution. The programme is well-balanced and comprehensive by offering various subjects in IT and business analytics in addition to a full range of business core subjects. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image Talent Gap Malaysia Data analyst is the top five emerging careers with a promising future in Malaysia (New Straits Times, April 2019). 21% growth in demand for a combination of skills encompassing Big Data, data analytics and web development (LinkedIn, 2019). Worldwide Nearly half (46%) of CIOs said they suffered from a skilled shortage in big data analytics. (KPMG CIO Survey 2019) More than 151,000 data scientist jobs going unfilled across the U.S (2018 LinkedIn Workforce Report)",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Entrepreneurship and Innovation in the Global Context; and",
+        "Transformative Entrepreneurship in a Digital World"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Entrepreneurship and Innovation in the Global Context; and",
+        "Transformative Entrepreneurship in a Digital World"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Entrepreneurship and Innovation in the Global Context; and",
+        "Transformative Entrepreneurship in a Digital World"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37700,
+    "international_usd": 8878,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Business analyst",
+    "Accounting analyst",
+    "Finance analyst",
+    "Information systems analyst",
+    "Marketing analyst",
+    "HR analyst",
+    "Customer service analyst",
+    "Sports analyst",
+    "Social media analyst",
+    "Business consultant"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "a4fb0849ab5e88f948a03b7d2554be210fa5f71489ae315e2044fcb5c3311b90"
+}

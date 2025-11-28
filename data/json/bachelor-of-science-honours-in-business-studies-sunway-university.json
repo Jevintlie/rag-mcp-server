@@ -1,0 +1,58 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-business-studies-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In Business Studies   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview This programme caters to those who wish to join the business profession with a particular emphasis on understanding customers and their preferences. You will develop a broad understanding of business organisations and learn how businesses develop strategies, make decisions, allocate resources, and manage risks and uncertainties in this globally competitive business environment. Using real and simulated business scenarios, you will be exposed to the challenges of decision-making faced by businesses. Apart from gaining theoretical knowledge, you would be able to explore the practical, analytical and strategic planning skills required to create value for both businesses and their customers. This programme aims to equip you with analytical and critical thinking skills, necessary for every employee in this global economy. The internship experience incorporated into the programme would also consolidate your learning as you apply theories into practice, and prepare you to enter the workforce. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Consumer Behaviour; and",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Consumer Behaviour; and",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Consumer Behaviour; and",
+        "Digital Marketing"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37700,
+    "international_usd": 8878,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Chief executive officer",
+    "Chief Marketing Officer",
+    "Product Manager",
+    "Business analyst",
+    "Business Development Manager",
+    "Project Manager",
+    "Supply Chain Manager",
+    "Client Relationship Manager",
+    "Business / Management Consultant",
+    "Market Research Analyst",
+    "Business Process Manager",
+    "Account Manager"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "721c3ba81c9448ee52bf5b5eb6afc100d4f35db5c81b30e173fa91cb2ec6ff7a"
+}

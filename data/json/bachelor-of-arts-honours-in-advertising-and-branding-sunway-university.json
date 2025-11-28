@@ -1,0 +1,76 @@
+{
+  "id": "sunway:sc:bachelor-of-arts-honours-in-advertising-and-branding-sunway-university",
+  "programme_name": "Bachelor Of Arts (Honours) In Advertising And Branding   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Arts (Honours) in Advertising and Branding degree programme aims to nurture creative thinkers with the skills and knowledge to investigate, analyse, conceptualise and present visual information and creative ideas. Students will acquire the necessary depth and breadth of specialised and contextual knowledge to address a range of appropriate advertising problems in industry. It is intended for those who wish to become advertising experts within the advertising industry. The subject combines Advertising, Communication, Design, Contextual Studies and Professional Studies with technologies and processes in a coherent and relevant manner. The programme aims to produce world class graduates with a focus on competencies in creativity, critical thinking and entrepreneurial thinking, skills that are transferable across media and settings. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36600,
+    "international_usd": 8633,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Creative director",
+    "Art director",
+    "Brand manager",
+    "Advertising account executive",
+    "Copywriter",
+    "Social media manager",
+    "Creative production manager",
+    "Account planner",
+    "Media planner",
+    "Web media advertising specialist",
+    "Editors",
+    "Strategists"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "409b65c63d0e2238d7883d6184dfb5191b88133d536b137fbc378645cf619146"
+}

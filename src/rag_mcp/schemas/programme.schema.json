@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://aima.rag/schemas/programme.schema.json",
+  "title": "Sunway Programme",
+  "type": "object",
+  "required": [
+    "id",
+    "programme_name",
+    "level",
+    "url",
+    "fees",
+    "last_fetched",
+    "source_hash"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^sunway:[a-z0-9:-]+$" },
+    "programme_name": { "type": "string", "minLength": 3 },
+    "school": { "type": "string" },
+    "level": {
+      "type": "string",
+      "enum": ["Undergraduate", "Postgraduate", "Diploma", "Foundation", "Other"]
+    },
+    "duration": { "type": "string" },
+    "intakes": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "url": { "type": "string", "format": "uri" },
+    "overview_text": { "type": "string" },
+    "structure": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["year", "modules"],
+        "properties": {
+          "year": { "type": "integer", "minimum": 1, "maximum": 6 },
+          "modules": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "fees": {
+      "type": "object",
+      "properties": {
+        "malaysian_rm": { "type": ["number", "null"] },
+        "international_usd": { "type": ["number", "null"] },
+        "notes": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "career_prospects": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "last_fetched": { "type": "string", "format": "date" },
+    "source_hash": { "type": "string", "minLength": 16 }
+  },
+  "additionalProperties": false
+}

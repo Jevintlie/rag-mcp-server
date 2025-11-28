@@ -1,0 +1,57 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-international-hospitality-management-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In International Hospitality Management   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Science (Honours) in International Hospitality Management degree is designed for the evolving global hospitality landscape and equips students with cross-functional skills in accommodation, foodservice, and business management. In Year 1, students explore core disciplines such as Culinary Operations, Foodservice, and Hotel Accommodation. Year 2 deepens their industry knowledge through key modules like Revenue Management and F&B Management, as well as a 10-week internship. Students may then specialise in one of three career-driven streams: Luxury & Prestige, Immersive Event Design, or AI & Digital Solutions, focusing respectively on luxury brand services, experiential events, or digital hospitality transformation. In Year 3, students complete courses in Strategic Management and finish with a capstone Research Project. Graduates emerge as Hotel Managers, Business Development Executives, or Service Quality Managers, with expanded roles in Luxury Hotel Branding, Corporate Events, or Digital Hospitality Marketing based on their chosen specialisation. Certified by Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Elite Travel Services",
+        "Luxury Brand Management",
+        "Protocol & VIP Management",
+        "Elective Subject"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Elite Travel Services",
+        "Luxury Brand Management",
+        "Protocol & VIP Management",
+        "Elective Subject"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking (Applicable to students who passed SPM and obtain Credit in SPM Bahasa Melayu)",
+        "Community Service for Planetary Health",
+        "Integrity and Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36550,
+    "international_usd": 8622,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Service Quality & Audit Manager",
+    "Business Development Manager",
+    "Hotels & Resorts Manager",
+    "Sales & marketing manager"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "3eb4a9475e7aa1f86041cb2734e52f942a7440d2b64f4b96d4e87e92c1e90837"
+}

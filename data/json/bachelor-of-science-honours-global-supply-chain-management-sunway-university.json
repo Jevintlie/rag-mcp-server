@@ -1,0 +1,51 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-global-supply-chain-management-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) Global Supply Chain Management   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The BSc (Hons) Global Supply Chain Management programme aims to meet the increasing demands for professionals in this field. You will be equipped with the knowledge, skills and abilities to manage supply chain networks to greater operational efficiency. Supply chain professionals see the big picture and understand how finances, people, information, processes, product, and technology interact within the business ecosystem. You will study core elements of the supply chain in the global business environment, such as in procurement strategies, inventory control, logistics operations, distribution practices and sustainability; and how these elements interact to create value for your organisation. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Data Analytics for Business Decisions; and",
+        "Advanced Data Visualisation"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Data Analytics for Business Decisions; and",
+        "Advanced Data Visualisation"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Data Analytics for Business Decisions; and",
+        "Advanced Data Visualisation"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37700,
+    "international_usd": 8878,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Enterprise resource planner",
+    "International logistics manager",
+    "Inventory specialist",
+    "Strategic planner",
+    "Supply chain consultant"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "450bc69d9992fc44848f0f3e3a2e94998a477103bab5d03f07f87e9d38d0d8d6"
+}

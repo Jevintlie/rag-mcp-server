@@ -1,0 +1,66 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-psychology-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In Psychology   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Studying psychology will allow you to gain an in-depth understanding of how we learn, think, feel and adapt to our social environment. The programme covers both normal and abnormal behaviour, and deals with the biological, social and individual factors that affect human psychology. The programme also includes supervised fieldwork, during which you will have the opportunity to apply your newly acquired knowledge and understanding in a real-world setting. Through the practical application of all you have learned, you will acquire the skills and attributes necessary to evaluate and understand the many different facets of human behaviour. You will also consider the complex ethical issues that arise throughout your studies, so that upon graduation, you will be able to use all you have learned for the betterment of human welfare. A degree in Psychology is the gateway to a variety of exciting career prospects, from forensic scientist to helping businesses understand their customers and even helping sports men and women to perform at their highest potential. A degree in psychology can also open up career prospects in advertising, public relations, administration, retail services, marketing, journalism and even the legal profession, to name but a few. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36150,
+    "international_usd": 8533,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Advertising and marketing manager",
+    "Behaviour therapist",
+    "Child development consultant",
+    "Entrepreneur",
+    "General manager",
+    "Human resources manager",
+    "Journalist",
+    "Management consultant",
+    "Market research consultant",
+    "Occupational health and safety consultant",
+    "Product developer",
+    "Public relations consultant",
+    "Recruitment specialist",
+    "Sales executive",
+    "Shadow aide for special education",
+    "Educator",
+    "Research assistant"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "1b32ed26d8a7e89a01ad97874d590547693a5e3ec1ff4c31ae87b744d518732e"
+}

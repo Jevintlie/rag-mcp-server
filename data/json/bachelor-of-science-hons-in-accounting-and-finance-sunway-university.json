@@ -1,0 +1,52 @@
+{
+  "id": "sunway:sc:bachelor-of-science-hons-in-accounting-and-finance-sunway-university",
+  "programme_name": "Bachelor Of Science (Hons) In Accounting And Finance   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The industry-relevant Bachelor of Science (Hons) in Accounting and Finance is recognised by renowned global professional bodies and focuses on key areas comprising corporate reporting, financial control, audit engagement, treasury, performance management, regulatory compliance and professional ethics. In line with the goal of the International Federation of Accountants on “Accounting for Sustainability”, you will also be guided to embrace sustainability when making professional decisions in your future career. This degree provides you with an in-depth understanding of how accounting and finance fit into the broader context of business and management. You will be equipped with vital critical thinking and problem-solving skills needed to succeed in today’s dynamic business world characterised by constant change and innovation. As digitalisation is reinventing the key competencies of the talents in the accounting and finance profession, data management and analytics related modules are being introduced in our enhanced curriculum. In addition to these technical skills, the curriculum places importance on the development of soft skills such as communication, negotiation, teamwork and leadership which are essential for personal and professional development and growth. Our two internships offers valuable opportunity to acquire expanded skill sets, establish a broader professional network, and boost self-confidence. These experiences will enable you to gain diverse exposure, develop valuable skills, and forge connections with industry professionals, thereby enhancing your career prospects. Consequently, Sunway graduates are highly sought after by top employers around the world. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University in addition to the Sunway University degree. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Advanced Taxation; and",
+        "Advanced Audit and Assurance"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Advanced Taxation; and",
+        "Advanced Audit and Assurance"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Advanced Taxation; and",
+        "Advanced Audit and Assurance"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 38100,
+    "international_usd": 8967,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Chief financial officer",
+    "Corporate treasurer",
+    "Financial controller",
+    "Internal & external auditor",
+    "Investment banker",
+    "Management consultant"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "9dbac2570ec4b17786c2fd275d41c87748f6835d46d971cd8c7fb2938b1370b1"
+}

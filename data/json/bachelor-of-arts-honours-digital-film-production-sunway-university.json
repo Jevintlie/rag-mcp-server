@@ -1,0 +1,69 @@
+{
+  "id": "sunway:sc:bachelor-of-arts-honours-digital-film-production-sunway-university",
+  "programme_name": "Bachelor Of Arts (Honours) Digital Film Production   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Arts (Honours) Digital Film Production explores the creative and professional aspects of film production including short film and documentary, scriptwriting, sound design, acting, transmedia content creation, post-production, entrepreneurship and internship with the widest and most value-added applications. The programme aims to produce versatile creative producers who are skilled in audio-visual production and transmedia application across multiple screens to enhance capability and competency in Malaysia’s growing creative economy. The expertise acquired in this programme will be relevant to a diverse range of conventional and new career options within and beyond the current media landscape that has been revolutionised by digital technology. With our innovative Hands-on Approach to teaching, you will find yourselves completely immersed in your course of study, surrounded by award-winning faculty and working with up-to-date equipment and facilities. You will also be trained to foster critical thinking and communication skills in order to fulfil your full academic potential. Upon completion of the programme, you would have amassed an impressive portfolio of work, the best of which will be screened at our end-of-year Public Graduation Showcase. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36350,
+    "international_usd": 8578,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Audio-visual producer",
+    "Film producer",
+    "Film director",
+    "Cinematographer",
+    "Film editor",
+    "Scriptwriter"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "6a945329ae46d8e35ce24d7ce0659893d25e3b1a6d4f6c26a6d35ffe83bcaea6"
+}

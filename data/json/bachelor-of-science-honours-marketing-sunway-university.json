@@ -1,0 +1,58 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-marketing-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) Marketing   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview This specialised degree is a dynamic programme encompassing the multifaceted components of marketing. Central to the programme design is a focus on understanding consumer behaviour as a driver of product design, distribution, communication, and pricing strategy. Through the study of specialised marketing fields such as branding, services, relationship and digital marketing, you will learn how to create value for both a firm and its customers. Our unique course delivery techniques combine active classroom learning with talks from industry leaders in Marketing, providing valuable insights into the challenging business environment today, as well as success stories of a well implemented marketing strategy. This programme also incorporates a simulated business challenge and industry field trips, to enhance your learning experience. We provide the teaching and learning environment to equip you with critical and analytical thinking skills as well as sound decision making competency to address real-world marketing challenges. With emphasis on innovation and creativity, this programme grooms marketing champions who have the potential to excel in the industry. The internship component provides you the opportunity to apply theory into practice, and prepares you for the workforce. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Entrepreneurship and Innovation in the Global Context; and",
+        "Transformative Entrepreneurship in a Digital World"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Entrepreneurship and Innovation in the Global Context; and",
+        "Transformative Entrepreneurship in a Digital World"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Entrepreneurship and Innovation in the Global Context; and",
+        "Transformative Entrepreneurship in a Digital World"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37700,
+    "international_usd": 8878,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Chief executive officer",
+    "Chief Marketing Officer",
+    "Product Manager",
+    "Brand Consultant",
+    "Supply Chain Manager",
+    "Key Accounts Specialist",
+    "Retail Expert",
+    "Consumer Research Analyst",
+    "Advertising & Promotions Specialist",
+    "Marketing Consultant Professional",
+    "Management Consultant Professional",
+    "Customer Relationship Manager"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "c567ca8eb551a8331b700b11adb592810f2c6abdac6ee07cc760beb38f2b324c"
+}

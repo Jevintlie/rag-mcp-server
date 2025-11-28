@@ -1,0 +1,55 @@
+{
+  "id": "sunway:sc:bachelor-of-software-engineering-hons-sunway-university",
+  "programme_name": "Bachelor Of Software Engineering (Hons)   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Software systems have become the cornerstone of all modern businesses. These systems are often complex yet must be robust and adaptable. This programme will equip you with the knowledge and understanding of user requirements in analysing, modelling, designing, and developing large-scale software systems that are reliable and robust. Such Software Engineering (SE) specialists will be able to respond to the ever growing impact of large-scale software systems in a wide range of situations, as well as to the increased importance in safety-critical and mission-critical applications. With the technical content gained as well as the practical aspects of architecture design, software development, software processes, software project management, software testing and software maintenance issues, you will be prepared to meet challenges of the industry and have the competency to develop new and innovative solutions. The three-month internship incorporated into the programme, will provide you with the opportunity to apply theories in practice and prepare you to enter the workforce. This programme includes the Certified Tester Foundation Level (CTFL) professional certification which incorporates software testing components within the curriculum of this degree programme. The CTFL is a globally accredited software testing professional certification fully accredited by the Malaysian Software Testing Board (MSTB), the national body representing the industry interests in promoting Software Quality Assurance (SQA) and software testing as core competencies in the development of software-dependent quality products and services. This industry-linked certificate will be an added advantage for the students, making them highly employable graduates. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Object-Oriented Programming"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Object-Oriented Programming"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Code Camp",
+        "Concurrent Programming",
+        "Human Computer Interaction"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 39100,
+    "international_usd": 9189,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Enterprise distributed application developer",
+    "Game Developer",
+    "IT analyst",
+    "Mobile App Developer",
+    "Requirement engineer",
+    "Software Architect",
+    "Software Engineer",
+    "Software quality assurance officer",
+    "Software tester",
+    "System Designer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "158d00c4f37850a06552b2e5cfe0cbdc588a60d8833895ff2cbe47b286582e00"
+}

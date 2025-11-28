@@ -1,0 +1,76 @@
+{
+  "id": "sunway:sc:bachelor-of-mechatronic-engineering-robotics-with-honours-sunway-university",
+  "programme_name": "Bachelor Of Mechatronic Engineering (Robotics) With Honours   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "4 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Mechatronic Engineering (Robotics) programme focuses on the integration of mechanical, electronic and computer control, which addresses the engineering needs of Industry 4.0. This programme is also structured for specialisation in robotics engineering. The programme prepares graduates to be ready for the future workforce with a strong focus on Artificial Intelligence and Industrial Automation. Throughout the programme, emphasis on sustainability and real-world learning is achieved through the incorporation of industry-related and UN SDG-related project-based learning. Students explore sustainable solutions to real-world problems by employing technologies such as AI, Data Analytics, Industrial Automation, Robotics and Internet-of-things. This programme is supported by laboratory facilities that are developed with industry partnerships i.e. the Collaborative Robots and Industrial Automation Laboratory and Mobile Robotics Laboratory. Programme Educational Objectives & Programme Learning Outcomes Image “The Sunway University Bachelor of Mechatronic Engineering (Robotics) with Honours (BEng Hons) degree is recognised as equivalent to that of Lancaster University's Master of Engineering Mechatronic Engineering (Robotics) (MEng Hons) degree. Upon successfully completing the programme, Sunway University BEng Hons degree graduates will also be awarded the MEng Hons degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University.” Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 4,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": null,
+    "international_usd": null,
+    "notes": ""
+  },
+  "career_prospects": [
+    "Automation Engineer",
+    "Construction M&E Engineer",
+    "Electronic engineer",
+    "Field Service Engineer",
+    "Instrumentation Engineer",
+    "Mechanical Design Engineer",
+    "Mechatronics Project Engineer",
+    "Product Engineer",
+    "Project Engineer",
+    "Researcher",
+    "Robotics Engineer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "39b8bea663374af7bd200a15d6a6e78f77acf046f3ec2855495286299221afe1"
+}

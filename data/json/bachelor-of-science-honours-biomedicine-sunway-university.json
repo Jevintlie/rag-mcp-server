@@ -1,0 +1,55 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-biomedicine-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) Biomedicine   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Get involved in the healthcare sector with this medically-orientated degree. Our biomedicine degree provides an ideal platform for careers in biology and biomedicine, including further postgraduate study. Biomedicine is a branch of medical science that deals with the development of diagnostic modalities and treatments for current and emerging threats to human health. This programme imparts the knowledge of anatomy, physiology, pharmacology, biochemistry, cell biology and genetics which are important for modern medicine and public health. Graduates will develop fundamental skills in critical thinking, problem solving, and communication which are invaluable in understanding the global health trends and biomedical research advances. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 41000,
+    "international_usd": 9611,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Academia",
+    "Medical/Diagnostic laboratory technicians",
+    "Clinical research scientists",
+    "Biomedical scientists",
+    "Government healthcare policy maker",
+    "Medical and pharmaceutical product specialists"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "8d3914b00c2d226cd8180878f362733cb0f23d94d03856a6a0ca7192a71da167"
+}

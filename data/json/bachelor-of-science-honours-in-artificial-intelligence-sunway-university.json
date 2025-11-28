@@ -1,0 +1,65 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-artificial-intelligence-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In Artificial Intelligence   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "January",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The BSc (Hons) in Artificial Intelligence at Sunway University offers a distinctive learning experience driven by state-of-the-art facilities, impactful research, and a vibrant academic community. Students benefit from a dedicated AI and Machine Learning Lab equipped with high-performance GPU-powered systems, NVIDIA Jetson Nano, and IoT prototyping kits to support hands-on learning in real-world applications. Uniquely, the programme also provides access to Sunway’s High Performance Computing (HPC) service, powered by cloud-based NVIDIA GPU-accelerated computing on AWS, giving students a competitive edge through hands-on experience with industry-relevant tools and infrastructure. The programme is led by a team of world-class academics and researchers actively involved in funded research projects in machine learning, computer vision, natural language processing, and smart systems. Students are immersed in a dynamic ecosystem that bridges academic knowledge and industry practice through project-based learning, capstone projects, and internship placements. As part of the Faculty of Engineering and Technology, students participate in AI-focused competitions, coding hackathons, innovation challenges, and collaborative projects through Sunway iLabs. They are also supported by an active AI and Data Science student club, mentoring programmes, and leadership development opportunities. With access to a digitally connected smart campus and strong industry linkages, BSc AI students at Sunway are uniquely positioned to become highly skilled, future-ready AI professionals.",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics & Civilisation",
+        "Philosophy & Current Issues",
+        "Entrepreneurial Mindset & Skills",
+        "Integrity & Anti-Corruption",
+        "Community Service for Planetary Health"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics & Civilisation",
+        "Philosophy & Current Issues",
+        "Entrepreneurial Mindset & Skills",
+        "Integrity & Anti-Corruption",
+        "Community Service for Planetary Health"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics & Civilisation",
+        "Philosophy & Current Issues",
+        "Entrepreneurial Mindset & Skills",
+        "Integrity & Anti-Corruption",
+        "Community Service for Planetary Health"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37850,
+    "international_usd": 8911,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Artificial Intelligence Engineer",
+    "Machine Learning Specialist",
+    "Data scientist",
+    "Computer Vision Engineer",
+    "Natural Language Processing Engineer",
+    "AI Solutions Architect",
+    "Robotics and Automation Engineer",
+    "AI Product Manager",
+    "Intelligent Systems Developer",
+    "AI Research Scientist"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "8d4d35920a14cc07177ff448afd9e877b092794c7c845b715ddcb4d0dbc4b95a"
+}

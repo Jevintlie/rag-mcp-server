@@ -1,0 +1,51 @@
+{
+  "id": "sunway:sc:bachelor-of-arts-honours-music-performance-sunway-university",
+  "programme_name": "Bachelor Of Arts (Honours) Music Performance   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Arts (Honours) Music Performance is focused on Western art music, with training in practical musicianship, music theory, and academic knowledge. It is a practice-based, creative degree programme in which you would be expected to practice individually, rehearse in ensembles, and perform in both contexts. During your studies, you will also gain knowledge in music theory, music history, composition, arrangement, music technology and music education. “This programme is ideal for you if you have a background in performance with an interest in solo performance, ensemble playing, and music education.” Graduates will be equipped for a professional career in the music industry as performers, educators, and session musicians, utilising a broad exposure to other related areas, including composition and arrangement. Furthermore, due to the interdisciplinary nature of the programme and its strong emphasis on collaborative work, you would gain a wide range of transferable skills necessary for employment in today’s creative industries.",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Chamber Music 1",
+        "Song & Aria Class: Italian"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Chamber Music 1",
+        "Song & Aria Class: Italian"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Chamber Music 1",
+        "Song & Aria Class: Italian"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37390,
+    "international_usd": 8809,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Performer",
+    "Educator",
+    "Session musician",
+    "Composer",
+    "Conductor",
+    "Arranger"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "06d8ec59b5b54b77f267393bd27fbce9f9cdec841003062d11b68b26b16d063f"
+}

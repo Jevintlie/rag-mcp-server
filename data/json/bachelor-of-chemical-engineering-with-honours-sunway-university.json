@@ -1,0 +1,73 @@
+{
+  "id": "sunway:sc:bachelor-of-chemical-engineering-with-honours-sunway-university",
+  "programme_name": "Bachelor Of Chemical Engineering With Honours   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "4 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Chemical Engineering is a discipline dealing with creating, developing and designing processes to produce, transform or transport products and materials. It combines the knowledge of natural, experimental and life sciences as well as aspects of mathematics and economics to investigate problems and design solutions for issues such as safety, efficiency and sustainability. Chemical Engineers pioneer new materials and technologies of the future; they design equipment for chemical manufacturing, develop and manage industrial processes that turn raw materials into the most useful products. Chemical engineers solve major societal challenges in energy, human health, manufacturing and sustainability. They use the knowledge of material and energy balances, heat and mass transfer, thermodynamics, fluid mechanics, separation technologies, chemical reaction kinetics, reactor design, and process design to create sustainable manufacturing processes, robust chemical plants and safe equipment design. A degree in Chemical Engineering offers many exciting careers options. Industries that employ chemical engineers include petroleum refining, plastics, paint, energy industries, textiles, food processing, cosmetics, biotechnology, water treatment, pharmaceuticals and environmental engineering. Programme Educational Objectives & Programme Learning Outcomes Image \"The Sunway University Bachelor of Chemical Engineering with Honours (BEng Hons) degree is recognised as equivalent to that of Lancaster University's Master of Engineering Chemical Engineering (MEng Hons) degree. Upon successfully completing the programme, Sunway University BEng Hons degree graduates will also be awarded the MEng Hons degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University.” Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 4,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36000,
+    "international_usd": 8500,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Environmental engineer",
+    "Process engineer",
+    "Petroleum process engineer",
+    "Design engineer",
+    "Refinery engineer",
+    "Production engineer",
+    "Chemical lab specialist",
+    "Material engineer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "652f8eff23857f447a49281a36e179817df1976313aa059b8b3887c65a7dbaec"
+}

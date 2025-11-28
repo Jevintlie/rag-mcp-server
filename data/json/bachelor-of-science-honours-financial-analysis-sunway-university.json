@@ -1,0 +1,52 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-financial-analysis-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) Financial Analysis   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The BSc (Hons) Financial Analysis programme has been designed to meet the increasing demand for quality skills and expertise in the financial services industry. Focusing on the quantitative aspects of finance, you will learn about equities, fixed-incomes and derivatives markets. You will also explore the applications of mathematical and statistical knowledge to the fields of investment and risk management to meet the dynamic needs of the financial services industry in general. The solid foundation that we provide allows you to either venture directly into a career in finance and investment or to pursue further studies in quantitative finance. Through this programme, you are prepared for the quantitative aspects of all three levels of Chartered Financial Analyst (CFA) professional examinations. A CFA charter is the most recognised professional qualification in the finance world and this will set you up for a successful career in finance. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37700,
+    "international_usd": 8878,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Chief financial officer",
+    "Corporate treasurer",
+    "Financial controller",
+    "Internal & external auditor",
+    "Investment banker",
+    "Management consultant"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "c269e08e8e0f6efd8981ab531829d9700432ef39bbff229b5d660b543124c8ac"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "sunway:sc:bachelor-of-information-systems-honours-data-analytics-sunway-university",
+  "programme_name": "Bachelor Of Information Systems (Honours) (Data Analytics)   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The programme focuses on the development of analytical skills in the study of technologies applied to big data. Harnessing and analysing massive data creates significant value for organisations and it has become the basis for decision-making to achieve greater efficiency while spearheading constant innovation. During their studies, students will solve practical and real-world problems of companies utilising data sets in the presence of analytics experts. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. Graduates are awarded three certificates: one from Sunway University, one from Lancaster University, and a Joint Certificate from SAS Academy, namely the SAS Joint Certificate in Advanced Techniques for Data Science and Predictive Analytics. On top of that, The Alibaba syllabus, which focuses on the digital economy and e-commerce, has been incorporated into this programme. With the Alibaba collaboration, there are more opportunities and platforms that could aspire young entrepreneurs and start-ups to develop their business ideas. Image Distinctive Sunway Experience In this programme, students will be awarded a SAS Joint Certificate in Big Data with Advanced Techniques in Data Science and an academic digital badge to validate their knowledge. As one of the Top 10 Most Prominent Data Science Institutes* , Sunway students learn innovative ways to use and leverage data to generate actionable outcomes across a variety of industries. Python and R languages and the SAS tools are taught in the programme. The collaboration with AWS and Alibaba GET enhance & provide students a 360 degree view of analytics knowledge and skills. *Analytics Insight Magazine (January 2022) Image Image Image Image Image Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Note: Electives offered are subject to change"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Note: Electives offered are subject to change"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Note: Electives offered are subject to change"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 39100,
+    "international_usd": 9189,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Big data system architect",
+    "Business intelligence manager/specialist/architecture/consultant",
+    "Chief data scientist",
+    "Chief knowledge analyst",
+    "Chief social media scientist",
+    "Credit scorecard specialist",
+    "Customer segmentation specialists",
+    "Forensic experts"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "6e926285c6d889b2110b685f2a7ba1c997121d9241d05f5ba3e9daf8b3748e7d"
+}

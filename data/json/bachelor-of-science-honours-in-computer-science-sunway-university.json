@@ -1,0 +1,49 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-computer-science-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In Computer Science   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Computer Science degree programme focuses on the design and development of systems infrastructure, as well as software and application technologies such as web browsers or databases. This programme has been developed according to the Malaysian Qualifications Agency Programme Standards for Computing and the Curriculum Guidelines for Undergraduate Degree Programs in Computer Science published by the ACM-IEEE CS (Association for Computing Machinery and Institute of Electrical and Electronics Engineers Computer Society, USA). It is designed to ensure that graduates are well equipped with the knowledge, principles and skills in developing new technological and innovative solutions in the field of Computer Science. The curriculum provides a comprehensive foundation of computer science, allowing you to gain technical knowledge such as theoretical algorithmic foundations to develop cutting-edge software or computing solutions. During your studies, you will also have the opportunity to perform a range of activities such as analysing, modelling, designing, developing and evaluating computing solutions. There are also electives in specialised areas such as computer vision and computer security. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image Distinctive Sunway Experience Students are exposed to latest Cloud technologies and principles so that they can be equipped with the fundamentals of Cloud computing via our industry partners such as AWS. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Social & Web Analytics"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Social & Web Analytics"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Data Mining & Knowledge Discovery Fundamentals"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37850,
+    "international_usd": 8911,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Chief Technology Officer",
+    "Game Developer",
+    "Mobile App Developer",
+    "Software Architect",
+    "Software Engineer",
+    "System Designer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "ee53e9b432a4721bc8bfa4c9588094325ffce9fc4066346ec00b033f37a8217c"
+}

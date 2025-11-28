@@ -1,0 +1,76 @@
+{
+  "id": "sunway:sc:bachelor-of-civil-engineering-with-honours-sunway-university",
+  "programme_name": "Bachelor Of Civil Engineering With Honours   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "4 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Civil Engineering programme equips students with a robust foundation in civil engineering principles, emphasising sustainability and the integration of Artificial Intelligence (AI) to address modern engineering challenges. The programme offers a comprehensive curriculum that combines core civil engineering subjects with cutting-edge topics in sustainability and AI, preparing graduates to lead in innovative and eco-friendly infrastructure development. The programme places a strong emphasis on sustainable practices, integrating courses such as Sustainable Engineering Design and Sustainable Digital Construction Technology. A key feature of the programme is its focus on AI. Courses such as Data Analytics for Engineers and AI in Civil Engineering utilise AI technologies to optimise designs, predict maintenance needs, and enhance construction processes. Hands-on experience and soft skills are cornerstones of the programme. Students participate in laboratory work, project-based learning and industry placements, providing practical experience with the latest tools and technologies. Programme Educational Objectives & Programme Learning Outcomes Image The Sunway University Bachelor of Civil Engineering with Honours (BEng Hons) degree is recognised as equivalent to that of Lancaster University's Master of Civil Engineering with Honours (MEng Hons) degree . Upon successfully completing the programme, Sunway University BEng Hons graduates will also be awarded the MEng Hons degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 4,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": null,
+    "international_usd": null,
+    "notes": ""
+  },
+  "career_prospects": [
+    "BIM Engineer",
+    "Building Control Surveyor",
+    "Consultation Engineer",
+    "Design Engineer",
+    "Geotechnical Engineer",
+    "Hydraulic Engineer",
+    "Project Engineer",
+    "Site Engineer",
+    "Structural Engineer",
+    "Traffic / Transportation Engineer",
+    "Water Engineer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "06b6f463f908a78856a874e0fa340921c62908ee887a76a1e18006a7e8e15f5d"
+}

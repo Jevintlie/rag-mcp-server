@@ -1,0 +1,57 @@
+{
+  "id": "sunway:sc:bachelor-honours-in-finance-sunway-university",
+  "programme_name": "Bachelor (Honours) In Finance   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor (Honours) in Finance programme aims to train multi-talented Banking & Finance graduates by providing strong grounding in a diverse range of subjects comprising Accounting, Banking, Fintech, Investment, and Quantitative Methods to meet today’s industry demands. This also includes specialized training and skill development in long-term national priority areas; an intensive two-semester applied project in addition to an internship with securities firms. Students will also be well-prepared to transition into higher-level professional qualifications such as the Chartered Financial Analyst (CFA) and the Chartered Banker (CB) offered by the Asian Institute of Chartered Bankers. With a Bachelor in Finance degree, graduates will be well-equipped to successfully kick-start their careers in a range of organization both small and big from ordinary firms (all firms need finance), conventional banks, financial institutions to modern Silicon Valley-type start-ups and Digital Asset Exchanges, besides being future-ready to embrace Industrial Revolution 4.0. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37700,
+    "international_usd": 8878,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Corporate banking",
+    "Investment banking",
+    "Financial consultancy",
+    "Financial & economic policy",
+    "Financial analysis",
+    "Investment management",
+    "Data analytics",
+    "Financial regulation",
+    "Financial planning",
+    "Market analysis",
+    "Financial services"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "290542f39cf99e9b882960bdd9bc56d0c2a8b2eb738b96ac167b80051e7f2287"
+}

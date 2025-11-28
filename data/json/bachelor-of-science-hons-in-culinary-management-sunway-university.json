@@ -1,0 +1,61 @@
+{
+  "id": "sunway:sc:bachelor-of-science-hons-in-culinary-management-sunway-university",
+  "programme_name": "Bachelor Of Science (Hons) In Culinary Management   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Science (Hons) in Culinary Management degree blends culinary artistry with business strategy, preparing graduates for leadership in modern foodservice, hospitality, and food innovation industries. In Year 1, students develop foundational skills in Culinary Operations and Small Business Ventures, alongside core business modules. Year 2 expands their knowledge with Nutrition and Sustainable Food Supply Chains, complemented by a 10-week industry internship that offers valuable real-world experience. The programme then offers two distinctive specialisation streams: Artisanal Patisserie, which emphasises Bistronomic, Boutique, and Gastronomic Pastry, or AI & Digital Solutions, focusing on Digital Marketing, Business, and Economy in the food industry. In Year 3, students refine their culinary leadership through Advanced Culinary Techniques and a Research Project. Graduates are well-prepared to pursue careers as Corporate R&D Chefs, In-flight Food Managers, Food Quality Specialists, or Food Tech Entrepreneurs, with unique opportunities in Pastry Innovation and Digital Food Media based on their specialisation. Certified by Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking (Applicable to students who passed SPM and obtain Credit in SPM Bahasa Melayu)",
+        "Community Service for Planetary Health",
+        "Integrity and Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking (Applicable to students who passed SPM and obtain Credit in SPM Bahasa Melayu)",
+        "Community Service for Planetary Health",
+        "Integrity and Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking (Applicable to students who passed SPM and obtain Credit in SPM Bahasa Melayu)",
+        "Community Service for Planetary Health",
+        "Integrity and Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37650,
+    "international_usd": 8867,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Corporate R&D Chef",
+    "Food Solution Consultant",
+    "Convention Food Production Manager",
+    "In-flight food manager",
+    "Food Supply & Distribution Manager",
+    "Food Quality and Safety Manager"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "72f72534e0c6ebf93268d9c1053fcd3f219d5aee452e5cfae6ef6dcbba80c8f6"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "sunway:sc:bachelor-of-arts-honours-design-communication-sunway-university",
+  "programme_name": "Bachelor Of Arts (Honours) Design Communication   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The 21st century communication designer is one who not only develops a message content for printed or electronic media, with emphasis on aesthetics in media, but also has the ability to create new media channels to ensure the message reaches its target audience. This programme aims to nurture passionate, creative thinkers who have a good understanding of key communication and information design concepts towards the application of these to new design trends and projects. It builds on and values the understanding of historical and contextual referencing and the capability to source for original materials through research. You will be engaging with traditional areas of communication as well as having access to cutting edge design, technology, software and digital media. From a broader perspective, you will be encouraged to not only develop your individual creative skills, but also your teamwork and networking skills through participation in creative collaboration teams. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36650,
+    "international_usd": 8644,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Creative director",
+    "Graphic designer",
+    "2D/3D animator",
+    "Illustrator",
+    "Copywriter",
+    "Freelancer",
+    "UI designer",
+    "Event coordinator",
+    "Interactive/Multimedia designer",
+    "Game artist",
+    "Film/TV assist producer",
+    "Project coordinator",
+    "Design Entrepreneur",
+    "Web designer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "75b9cb7d4bc7620787a7571a01d5c46a631b7cc39ae699d3e68765a3e820c89b"
+}

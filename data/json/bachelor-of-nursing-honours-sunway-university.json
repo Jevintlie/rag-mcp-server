@@ -1,0 +1,54 @@
+{
+  "id": "sunway:sc:bachelor-of-nursing-honours-sunway-university",
+  "programme_name": "Bachelor Of Nursing (Honours)   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "4 Years (full-time)",
+  "intakes": [
+    "October"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Nurturing future nurses who are not only skilled in clinical care but also committed to promoting sustainable clinical practices and planetary health. Why a bachelor’s degree in Nursing at Sunway? Advanced Education Specialised knowledge & skills to handle the complexities of modern healthcare systems. Broader scope of practice in performing advanced nursing interventions & procedures. Career Advancement A bachelor’s degree offers greater career advancement opportunities, including roles in management, education, and research. Competitive Global Advantage Increasingly, many countries prefer/require nurses trained at a degree level, opening up opportunities to work abroad and in multinational healthcare organisations. Sponsorship from Sunway Medical Centre Sponsorship coverage includes: • Tuition fees • Meal allowance • Book allowance • Academic bonus • Accommodation • Medical benefits • Monthly student allowance Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Credit in SPM English",
+        "or MUET Band 3,",
+        "or TOEFL 515 (Paper-based), 215 (Computer-based), 80 (Internet-based)"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Credit in SPM English",
+        "or MUET Band 3,",
+        "or TOEFL 515 (Paper-based), 215 (Computer-based), 80 (Internet-based)"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Credit in SPM English",
+        "or MUET Band 3,",
+        "or TOEFL 515 (Paper-based), 215 (Computer-based), 80 (Internet-based)"
+      ]
+    },
+    {
+      "year": 4,
+      "modules": [
+        "Credit in SPM English",
+        "or MUET Band 3,",
+        "or TOEFL 515 (Paper-based), 215 (Computer-based), 80 (Internet-based)"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 22200,
+    "international_usd": 5433,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [],
+  "last_fetched": "2025-11-12",
+  "source_hash": "74a1d7d3a8bc274fcc8798fadc20b06d8fd323a222f120d853065d1a47f6e376"
+}

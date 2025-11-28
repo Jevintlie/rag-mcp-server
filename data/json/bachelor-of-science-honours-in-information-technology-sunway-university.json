@@ -1,0 +1,52 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-information-technology-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In Information Technology   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview This programme aims to equip you with the technical knowledge to keep abreast with the rapid advances in technology, and to develop your analytical skills. Students undertaking this programme are exposed to both technical and real-world practical experiences through the specially-crafted coursework and industrial training, making our graduates market-ready upon graduation. Technology-based industries are fast-moving and require talents equipped with a balanced knowledge in software development and hardware infrastructure. By combining your technical knowledge on IT with hands-on experience, you will be adept at developing an organisation’s technology infrastructure and support its users. This versatile programme is best suited for those who wish to proceed as generalists in computing and build successful careers as IT professionals and managers. According to your personal interest, you may explore the various electives offered and enhance your knowledge in specific fields such as network management and security, database engineering and mobile development. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image Distinctive Sunway Experience Students in this programme will experience the latest techniques in IT security and developing critical threat-hunting expertise, developed in collaboration with world's leading cybersecurity organizations like Cisco, Fortinet and EC-Council Together with EC-Council, our students have the chance to obtain up to two professional certificates during their studies. Students may also choose to attend CCNA professional examination. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Note: These are just some of the electives"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Note: These are just some of the electives"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Database Engineering",
+        "Mobile Application Development",
+        "UI/UX Design and Development",
+        "Software Architecture and Design Patterns"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37850,
+    "international_usd": 8911,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Database architect",
+    "IT specialist",
+    "Network specialist",
+    "System engineer",
+    "E-commerce architect",
+    "Web architect"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "3e3768551b4bf4eda8a853fcf00c84b8ea13b06dc2299d37d90e2ec2933f904b"
+}

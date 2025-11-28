@@ -1,0 +1,89 @@
+{
+  "id": "sunway:sc:bachelor-of-arts-honours-in-interior-architecture-sunway-university",
+  "programme_name": "Bachelor Of Arts (Honours) In Interior Architecture   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years, 6 Months (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Arts (Honours) in Interior Architecture is an exciting programme designed for students who seek to become innovative interior architecture professionals of the 21st century. Spanning a period of 3 and 1/2 years, you will engage in various aspects of design for interior environments and develop skills which enable you to contribute to the profession with creativity and confidence. The programme of study takes place in a broad range of learning environments, beginning with studio experience which engages you in the fundamentals of design process and thinking, allowing knowledge and skill-development in the practice of designing interactions between people and interior spaces. You will be exposed to a balanced mixture of theoretical and practical subjects such as design practice, modelling, drawing, furniture design, and sustainable design. A keen sense of design coupled with communication skills and the ability to utilise the latest technology, will equip you for a career in any field of design. You will also experience an immersive learning environment in the real world during the 6-month industrial placement programme. This programme has been developed according to the guidelines of the Board of Architects Malaysia (Lembaga Arkitek Malaysia, LAM). On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 4,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 39620,
+    "international_usd": 9304,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "3D / CAD Visualizer",
+    "Creative director",
+    "Design consultant",
+    "Design Entrepreneur",
+    "Furniture designer",
+    "Interior Architect / Designer",
+    "Interior Technician",
+    "Lighting Designer",
+    "Project Manager",
+    "Product Designer",
+    "Retail designer",
+    "VR / AR Designer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "4f6662082faaf1f545154ec4b06b96aea142ce6e64a29baef4b3a8ab2a6da2be"
+}

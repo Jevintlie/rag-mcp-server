@@ -1,0 +1,51 @@
+{
+  "id": "sunway:sc:bsc-hons-information-technology-computer-networking-and-security-sunway-university",
+  "programme_name": "Bsc (Hons) Information Technology (Computer Networking And Security)   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Organisations depend on their information networks for mission-critical operations. Highly trained networking professionals are needed to ensure these infrastructures are resilient and operational. Threats towards networks are ever increasing and rapidly evolving. The security policies that are developed must be able to ensure accurate evaluation of internet traffic, to appropriately filter malicious users. Graduates from this programme will be well-versed in the technical skills of computer hacking investigation and prevention, paving the way for a potentially lucrative career in the field of computer and networking security. There are global opportunities in sectors that have a rapid demand for networking and cyber-security experts such as the banking or financial industry, large private organisations, or the government. You will also gain exposure to computer and networking security related practices in business and the industry through a 12-week industrial attachment. Graduates will revolutionise the field of Information Security with a solid foundation leading to internationally recognised professional credentials awarded by EC-Council (IT Security Certification Body from the USA): Certified Ethical Hacking (CEH) Computer Hacking Forensic Investigator (CHFI) On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image Distinctive Sunway Experience Students in this programme will experience the latest techniques in IT security and developing critical threat-hunting expertise, developed in collaboration with world's leading cybersecurity organizations like Cisco, Fortinet and EC-Council Together with EC-Council, our students have the chance to obtain up to two professional certificates during their studies. Students may also choose to attend CCNA professional examination. Image Image Image Image Image Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Note: Electives offered are subject to change"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Note: Electives offered are subject to change"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Note: Electives offered are subject to change"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37850,
+    "international_usd": 8911,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "IT security consultant",
+    "Digital forensic investigator",
+    "Network engineer",
+    "Network infrastructure specialist",
+    "Security engineer",
+    "Security analyst",
+    "Penetration tester",
+    "Ethical hacker"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "3c2002de964a648b02699f303955bc89c78f2847914600a83c2d6271a60edd39"
+}

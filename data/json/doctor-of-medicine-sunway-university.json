@@ -1,0 +1,77 @@
+{
+  "id": "sunway:sc:doctor-of-medicine-sunway-university",
+  "programme_name": "Doctor Of Medicine   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "5 years (full-time)",
+  "intakes": [
+    "October"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Leveraging on the Sunway ecosystem Gain clinical experience at Sunway Medical Centre, a leading private quaternary hospital in Malaysia with a range of comprehensive medical and specialised services. The Sunway Healthcare Group, with its network of hospitals, specialist centres, and ancillary healthcare services, provides abundant opportunities for exposure to a myriad of fields within healthcare. Digital health and telemedicine Be at the forefront of high-tech healthcare delivery with exposure to telemedicine platforms, digital health solutions and other technological advances. Inter-professional education Be prepared for clinical practice and the next level of training by learning the roles and dynamics within a healthcare setting, and how best to collaborate with a multidisciplinary healthcare team. Dynamic interplay between the health and well-being of humans and the planet Clinical competency and medical knowledge are expected of each medical graduate, but beyond that, this programme aims to nurture compassionate doctors who approach healthcare challenges holistically with planetary health and sustainability perspectives World-class research ecosystem Students can immerse themselves in research projects with Sunway University’s established global partners such as the University of Cambridge, Oxford University, and Harvard University that seek to find innovative solutions to the most pressing healthcare challenges. Transformative community initiatives Through ongoing community projects, get involved in raising awareness on environmental health, hygiene and nutrition, to safeguard and improve public health.",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "MUET Band 4",
+        "IELTS or equivalent 6.0",
+        "SPM English B+",
+        "O-Level English (1119) Credit",
+        "UEC English B4",
+        "Pre-University/Diploma/foundation or equivalent Programme conducted in English"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "MUET Band 4",
+        "IELTS or equivalent 6.0",
+        "SPM English B+",
+        "O-Level English (1119) Credit",
+        "UEC English B4",
+        "Pre-University/Diploma/foundation or equivalent Programme conducted in English"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "MUET Band 4",
+        "IELTS or equivalent 6.0",
+        "SPM English B+",
+        "O-Level English (1119) Credit",
+        "UEC English B4",
+        "Pre-University/Diploma/foundation or equivalent Programme conducted in English"
+      ]
+    },
+    {
+      "year": 4,
+      "modules": [
+        "MUET Band 4",
+        "IELTS or equivalent 6.0",
+        "SPM English B+",
+        "O-Level English (1119) Credit",
+        "UEC English B4",
+        "Pre-University/Diploma/foundation or equivalent Programme conducted in English"
+      ]
+    },
+    {
+      "year": 5,
+      "modules": [
+        "MUET Band 4",
+        "IELTS or equivalent 6.0",
+        "SPM English B+",
+        "O-Level English (1119) Credit",
+        "UEC English B4",
+        "Pre-University/Diploma/foundation or equivalent Programme conducted in English"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 100140,
+    "international_usd": 22753,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [],
+  "last_fetched": "2025-11-12",
+  "source_hash": "e1fe555ab7161498e82b91a8a62c7ced805fd5d51245707f8381b79bf593b45c"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-financial-economics-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) Financial Economics   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Science (Honours) Financial Economics programme ensures that economics graduates stay ahead of the industry by acquiring technological skills such as quantitative exposure to analytical models, big-data analysis, forecasting, etc. With its new and improved structure, students will be trained in the application of powerful economics and finance theories, have access to concepts translated as operational models with powerful software to apply to real data, and more emphasis on technology-driven training. Most academic degrees in economics can no longer keep up with the rapid-pace of changing job demands as technology rapidly changes the work environment. Industry experts have pointed to this in a hidden message – the versatility of the skill sets to succeed in the various industrial sectors is lacking in graduates. With a Bachelor in Financial Economics degree, graduates will be able to learn economics at a higher level as business analysts with the aid of powerful software and expensive data available in the campus. Their specialized training starts in Sunway University in the analytics-driven approach to learn economics for business decision-making. Their training transfers to jobs as ready skills for analysis of businesses, industries, product markets essential in modern firms. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37700,
+    "international_usd": 8878,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Chief financial officer",
+    "Corporate treasurer",
+    "Financial controller",
+    "Investment banker"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "39145eb29fce0a024bc793c3215e2a70ced66585e068e23aed454614c7d28625"
+}

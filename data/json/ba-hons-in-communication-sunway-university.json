@@ -1,0 +1,77 @@
+{
+  "id": "sunway:sc:ba-hons-in-communication-sunway-university",
+  "programme_name": "Ba (Hons) In Communication   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview This exciting and high-impact communication programme is designed to produce employable industry-ready graduates in Corporate Communication and Public Relations. This innovative, holistic, and creative programme works closely with industry practitioners to reinforce knowledge learnt in the classroom in project-based learning. You will have the opportunity to get up-close and personal with industry leaders as they share their expertise and skills in seminars, workshops, and classroom projects. This extends the learning beyond the classroom, and you are given opportunities to plan and organise events through which you can apply your classroom knowledge. The Communication and Networking Club spearheads various department initiatives such as organising field trips, community service collaborations, and festivals (when appropriate). These events and activities add excitement and provide real-world insights to you as part of your learning. Additionally, as you work with lecturers on your research-based subjects, critical thinking, perseverance, and research skills will be honed in the process. The internship component in the final year culminates all your learning as you begin to apply theories into real-world practice. Upon successfully completing the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Basic Narrative Analysis",
+        "Celebrity Culture",
+        "Events Management",
+        "Intercultural Communication",
+        "Investor Relations",
+        "Media Relations & Public Affairs",
+        "Political Communication",
+        "Public Relations Writing",
+        "Psychology in Communication"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Basic Narrative Analysis",
+        "Celebrity Culture",
+        "Events Management",
+        "Intercultural Communication",
+        "Investor Relations",
+        "Media Relations & Public Affairs",
+        "Political Communication",
+        "Public Relations Writing",
+        "Psychology in Communication"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Basic Narrative Analysis",
+        "Celebrity Culture",
+        "Events Management",
+        "Intercultural Communication",
+        "Investor Relations",
+        "Media Relations & Public Affairs",
+        "Political Communication",
+        "Public Relations Writing",
+        "Psychology in Communication"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36650,
+    "international_usd": 8644,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Public relations manager",
+    "Account Manager",
+    "Media planner",
+    "Corporate communications director",
+    "Corporate image consultant",
+    "Branding/image strategist",
+    "Social media manager",
+    "Foundation programme officer",
+    "Community outreach coordinator",
+    "Advocacy director"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "858b8df924cb4a68825daf7cfc994c3af3abd4b5cc07384bf9594884051fb20b"
+}

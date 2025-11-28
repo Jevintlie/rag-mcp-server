@@ -1,0 +1,76 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-statistical-data-modelling-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In Statistical Data Modelling   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview Sunway University’s Bachelor of Science (Honours) in Statistical Data Modelling is a home-grown 3-year degree programme designed to equip students with the skills to analyse complex data through advanced mathematical and statistical methods and AI-computational tools. This supports data-driven decision-making and generates impactful insights. ​ ​The AI-Driven Data Science specialisation track equips students with the skills to leverage AI and advanced data science techniques for analysing large, complex datasets. It enables them to design and implement machine learning algorithms, build predictive models, and handle data preprocessing and visualisation to uncover ​valuation insights across various industries using cutting-edge AI tools. ​ ​The Econometrics specialisation track furnishes students with advanced statistical and mathematical methodologies for the analysis of economic data, utilising techniques such as regression analysis and time series modelling. This empowers them to interpret economic trends and tackle complex real-world challenges across diverse sectors, including finance, policy analysis, market research, healthcare, energy, government, agriculture, transportation, and telecommunication.​ ​Graduates are equipped for high-demand careers as Data Scientists, AI Analysts, and Econometricians.​ Preparatory Course Image Distinctive Sunway Experience This programme is the only one in ASEAN and the first in the Asia Pacific to embed the SAS Certified Data Scientist syllabus within a degree program, while also preparing students to sit for the SAS Certified Data Scientist qualification exam. The exams are ​Exam 1: Base Programming using SAS 9.4 Exam 2: Forecasting and Optimization using SAS Viya Exam 3: Machine Learning using SAS Viya Exam 4: Natural Language Processing and Computer Vision using SAS Viya​ Exam 5: Advanced Programming using SAS 9.4 ​ To produce industry-ready graduates and enhance their employability, we offer ​professional exam preparatory courses and workshops in R, SAS, Excel, and Python Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)",
+        "Entreprenurial Mindset & Skills",
+        "Community Service for Planetary Health",
+        "Integrity and Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)",
+        "Entreprenurial Mindset & Skills",
+        "Community Service for Planetary Health",
+        "Integrity and Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)",
+        "Entreprenurial Mindset & Skills",
+        "Community Service for Planetary Health",
+        "Integrity and Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 35800,
+    "international_usd": 8456,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Audit analytics",
+    "Biostatistician",
+    "Business/Corporate data analyst",
+    "Chief statistician",
+    "Cryptographer",
+    "Data analytics expert",
+    "Data scientist",
+    "Fraud investigator",
+    "Healthcare statistician",
+    "Investment/Risk data analyst",
+    "Operations research analyst",
+    "Optimisation & Forecasting engineer",
+    "Quantitative analyst",
+    "Researcher",
+    "SAS programmer",
+    "Sports performance analyst",
+    "Statistical project consultant",
+    "Statistical quality control engineer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "49881ef2d62630f6933ca71e5d0ea476ef2d277a708c7b64512a2b1d8ee20e14"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "sunway:sc:bachelor-of-science-honours-in-international-business-sunway-university",
+  "programme_name": "Bachelor Of Science (Honours) In International Business   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Bachelor of Science (Honours) in International Business programme equips students with essential knowledge in the area of international business. Business today cannot remain domestic for two main reasons. First, your competitors come from around the world. Whether you are a watch maker, a restaurant owner, or a retailer, you will find global companies who are your competitors at your doorstep. Second, your consumers compare you with global options and standards. To survive and thrive, you need a better understanding of international business. This programme provides an opportunity for students to learn how business organisations operate in an international business environment, gain an understanding of development and implementation of international strategies, and to deal with managerial issues related to cross-border business. Our curriculum covers global and contemporary issues affecting the ever-changing business environment. Students will learn the core elements such as International Human Resources Management, International Economics, International Business Law, International Business, Organisational Behaviour and Cultural Management related to the international business environment. This is a programme offered in partnership with Lancaster University and the Chartered Management Institute. On successful completion of the programme, graduates will be awarded three certificates: a degree from Sunway University, a degree from Lancaster University, and a Level 5 Diploma Professional Qualification in Management and Leadership from the Chartered Management Institute. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Data Analytics for Business Decisions; and",
+        "Advanced Data Visualisation"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Data Analytics for Business Decisions; and",
+        "Advanced Data Visualisation"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Data Analytics for Business Decisions; and",
+        "Advanced Data Visualisation"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37700,
+    "international_usd": 8878,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Business consultant",
+    "Human resource consultant for multinational companies",
+    "Import/export manager",
+    "International trade manager"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "ab22ab63d2678cb677157b1cf945351309967e25be8251b4ad966a4e910d0d55"
+}

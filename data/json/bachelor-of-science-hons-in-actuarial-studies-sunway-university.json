@@ -1,0 +1,64 @@
+{
+  "id": "sunway:sc:bachelor-of-science-hons-in-actuarial-studies-sunway-university",
+  "programme_name": "Bachelor Of Science (Hons) In Actuarial Studies   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview This programme draws together a variety of subjects that involve applying mathematical and statistical techniques in the financial services industry. Designed to pave the way for students who want to enter a career as an actuary, they will be prepared for professional exams that will lead to a recognised actuary status or a specialist in the financial risk and insurance industries.​ ​The Society of Actuaries (SOA) USA, Institute and Faculty of Actuaries (IFoA) UK, Casualty Actuarial Society (CAS) USA, The Institute of Actuaries of Australia (IAA), and Canadian Institute of Actuaries (CIA) conduct actuarial professional exams leading to professional designations such as Fellow of the Society of Actuaries (FSA), Fellow of the Institute of Actuaries (FIA), Chartered Enterprise Risk Analyst (CERA), Fellow of the Casualty Actuarial Society (FCAS), Fellow of the Institute of Actuaries of Australia (FIAA) and Fellow of the Canadian Institute of Actuaries (FCIA).​",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)",
+        "Entrepreneurial Mindset & Skills",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)",
+        "Entrepreneurial Mindset & Skills",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (Applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)",
+        "Entrepreneurial Mindset & Skills",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 35800,
+    "international_usd": 8456,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Actuarial reserving analyst",
+    "Catastrophe risk analyst",
+    "Chief actuary in life/health/property and casualty insurance",
+    "Chief executive officer",
+    "Chief financial officer",
+    "Financial risk manager"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "1f8efea7e76cc400713d48e53241d4f54d68e3708ce9bc06373fe4bd44e860ba"
+}

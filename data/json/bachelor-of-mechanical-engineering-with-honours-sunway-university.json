@@ -1,0 +1,74 @@
+{
+  "id": "sunway:sc:bachelor-of-mechanical-engineering-with-honours-sunway-university",
+  "programme_name": "Bachelor Of Mechanical Engineering With Honours   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "4 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Mechanical Engineering programme is a modern, project-based degree which aims to produce graduates who address the Grand Challenges for Engineering and the UNSDGs. As a project-based degree, our students will Conceive-Design-Implement-Operate at least 4 engineering systems (or projects) throughout their degree, with at least 2 of such projects being based on real-life industry challenges. Their projects will address the Grand Challenges and the UNSDGs. To assist them, students will also be taught to meaningfully use current Industry 4.0 tools and software such as 3-D Printing, Computational Fluid Dynamics and Finite Element Method. Programme Educational Objectives & Programme Learning Outcomes Image The Sunway University Bachelor of Mechanical Engineering with Honours (BEng Hons) degree is recognised as equivalent to that of Lancaster University's Master of Engineering Mechanical Engineering with Honours (MEng Hons) degree. Upon successfully completing the programme, Sunway University BEng Hons degree graduates will also be awarded the MEng Hons degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 4,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36000,
+    "international_usd": 8500,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Automotive Engineer",
+    "CAD/CAM Engineer",
+    "Design Engineer",
+    "Manufacturing Engineer",
+    "Materials Engineer",
+    "Mechanical Engineer",
+    "Project Engineer",
+    "Robotic Engineer",
+    "Systems Engineer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "3e95fab73739d09a66e6a75177097537afa149cc95d9c0b92f258ba847ee646d"
+}

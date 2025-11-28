@@ -1,0 +1,75 @@
+{
+  "id": "sunway:sc:bachelor-of-electronic-and-electrical-engineering-with-honours-sunway-university",
+  "programme_name": "Bachelor Of Electronic And Electrical Engineering With Honours   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "4 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The Electronic and Electrical Engineering degree is concerned with electrical and electronic equipment, interfaces and communications. Electrical engineering tends to focus on larger scale electrical equipment and power, whilst electronic engineering is more focused on smaller scale electronic circuits and devices, computer and communication systems. It gives a fascinating insight into how electrical devices and technology work as a preparation for a future that will likely be full of new electrical and electronic technologies. The programme will give students a strong technical knowledge in a variety of areas, which could include electronics, signal processing, power engineering, computer and communication systems, and engineering management. Alongside the theories, students will also learn by hands-on practical exposure to ensure that they are prepared for engineering work upon graduation. A degree in Electronic and Electrical Engineering gives many career options. Graduates can venture into a variety of industries such as electronics, telecommunications, robotics, computer engineering, power systems, medical equipment and more. Programme Educational Objectives & Programme Learning Outcomes Image The Sunway University Bachelor of Electronic and Electrical Engineering with Honours (BEng Hons) degree is recognised as equivalent to that of Lancaster University's Master of Engineering Electronic and Electrical Engineering with Honours (MEng Hons) degree . Upon successfully completing the programme, Sunway University BEng Hons graduates will also be awarded the MEng Hons degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    },
+    {
+      "year": 4,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu)/ Critical Thinking",
+        "Community Service for Planetary Health",
+        "Integrity & Anti-Corruption",
+        "Philosophy and Current Issues"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36200,
+    "international_usd": 8544,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Control engineer",
+    "Robotic engineer",
+    "Safety engineer",
+    "Product development engineer",
+    "Computer engineer",
+    "Electronic engineer",
+    "Communication engineer",
+    "Biomedical engineer",
+    "Electrical engineer",
+    "Consulting engineer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "b318404472ac69f12b1f694483bb3d0900b27583d75b511a150e26109b698fc5"
+}

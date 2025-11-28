@@ -1,0 +1,68 @@
+{
+  "id": "sunway:sc:bachelor-of-arts-honours-contemporary-music-audio-technology-sunway-university",
+  "programme_name": "Bachelor Of Arts (Honours) Contemporary Music (Audio Technology)   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview This programme aims to train versatile musicians and music producers. It is both a technical and creative degree programme, providing you with solid music theory and academic knowledge while developing your skills in audio technology through studio practice and interdisciplinary collaborative projects. Subjects and areas covered include composition, arrangement, sound design and film scoring, as well as music theory, history and aural training. If you have a strong interest in music, production, sound and audio technology, this programme is ideal for you. It is also open to individuals with no prior formal musical training who are passionate about pursuing a career in music. Graduates will be equipped to work in the music industry as music producers, mixing engineers and composers; or in the broader creative industries through work on film, TV, video games, theatre, dance, entertainment and many more.",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "English for the Arts",
+        "Communication Skills",
+        "Penghayatan Etika dan Peradaban",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking",
+        "Community Service for Planetary Health",
+        "Entrepreneurship Mindset and Skills",
+        "Falsafah dan Isu Semasa",
+        "Integrity & Anti-Corruption"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 37390,
+    "international_usd": 8809,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Music producer",
+    "Mixing engineer",
+    "Production engineer",
+    "Composer",
+    "Sound designer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "b2dc8cc24b1a7fa2e40edcfdb658f19dc3ce8ea07532907ddd81e5b4cf63d021"
+}

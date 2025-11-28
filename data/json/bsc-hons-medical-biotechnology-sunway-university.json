@@ -1,0 +1,58 @@
+{
+  "id": "sunway:sc:bsc-hons-medical-biotechnology-sunway-university",
+  "programme_name": "Bsc (Hons) Medical Biotechnology   Sunway University",
+  "school": "",
+  "level": "Undergraduate",
+  "duration": "3 Years (full-time)",
+  "intakes": [
+    "February",
+    "April",
+    "September"
+  ],
+  "url": "https://sunwayuniversity.edu.my",
+  "overview_text": "Overview The development of medical biotechnologies is one of the major success stories of the last 20 years, and continues to revolutionise the world of medicine. Exciting new developments have led the way to new treatments to combat previously life-threatening diseases and to improve the quality of life. This programme will lead you through some of the most important developments, helping you to understand them and opening up a future world of innovation and discovery. Graduates of the programme will find rewarding careers in the pharmaceutical industry, as well as in the health sector and in public policy, as society grapples with the complex issues that the rapidly changing world of medical biotechnology brings with it. With a focus on developing research skills, this programme also equips you for further studies at Masters or even PhD level, that can lead to cutting edge medical biotechnology discovery. On successful completion of the programme, graduates will also be awarded a degree from Lancaster University. They will be awarded two certificates, making them graduates of both Sunway University and Lancaster University. Image",
+  "structure": [
+    {
+      "year": 1,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking"
+      ]
+    },
+    {
+      "year": 2,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking"
+      ]
+    },
+    {
+      "year": 3,
+      "modules": [
+        "Appreciation of Ethics and Civilisation",
+        "Philosophy and Current Issues",
+        "Bahasa Kebangsaan A (applicable to students who did not sit for SPM or did not obtain a Credit in SPM Bahasa Melayu) OR Critical Thinking"
+      ]
+    }
+  ],
+  "fees": {
+    "malaysian_rm": 36750,
+    "international_usd": 8667,
+    "notes": "International students pay RM equivalent; USD is indicative based on exchange rate."
+  },
+  "career_prospects": [
+    "Academia",
+    "Patent law",
+    "Pharmaceutical industries",
+    "Food industries",
+    "Healthcare research",
+    "Entrepreneurs and marketing professionals",
+    "Forensics",
+    "Insurance industry",
+    "Writer"
+  ],
+  "last_fetched": "2025-11-12",
+  "source_hash": "4d00317cff9aa30f1f36f64b6d10574cdf91806ceb4e929a7c420295b8054eeb"
+}
