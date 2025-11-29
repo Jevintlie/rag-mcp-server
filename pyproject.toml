@@ -1,0 +1,23 @@
+[project]
+name = "sunway-rag-mcp"
+version = "0.1.0"
+description = "Sunway RAG MCP server"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "python-dotenv>=1.0",
+  "sentence-transformers>=5.0",
+  "chromadb>=1.3",
+  "beautifulsoup4>=4.12",
+  "jsonschema>=4.0",
+]
+
+[project.scripts]
+sunway-rag-mcp = "rag_mcp.mcp.server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/rag_mcp"]
