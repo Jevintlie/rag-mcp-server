@@ -58,7 +58,7 @@ def _ensure_model_and_programmes() -> None:
     if PROGRAMME_NAMES is None:
         PROGRAMME_NAMES = _load_programme_names()
     if _MODEL is None:
-        _MODEL = SentenceTransformer(EMBED_MODEL)
+        _MODEL = SentenceTransformer(EMBED_MODEL, local_files_only=True)
     if PROGRAMME_NAMES and _PROG_EMB is None:
         _PROG_EMB = _MODEL.encode(PROGRAMME_NAMES, normalize_embeddings=True)
 
