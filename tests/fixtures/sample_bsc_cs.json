@@ -1,0 +1,22 @@
+{
+  "id": "sunway:set:computer-science-example",
+  "programme_name": "Example Bachelor of Computer Science",
+  "school": "School of Engineering and Technology",
+  "level": "Undergraduate",
+  "duration": "3 years",
+  "intakes": ["January", "April", "September"],
+  "url": "https://example.com/programmes/computer-science",
+  "overview_text": "A synthetic programme fixture used only for offline tests.",
+  "structure": [
+    {"year": 1, "modules": ["Programming Fundamentals", "Computer Mathematics"]},
+    {"year": 2, "modules": ["Data Structures", "Software Engineering"]}
+  ],
+  "fees": {
+    "malaysian_rm": 10000,
+    "international_usd": 5000,
+    "notes": "Synthetic values for automated testing only"
+  },
+  "career_prospects": ["Software Engineer", "Data Analyst"],
+  "last_fetched": "2025-01-01",
+  "source_hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+}

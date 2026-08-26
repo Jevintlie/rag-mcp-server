@@ -1,0 +1,10 @@
+{ "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"rag.get.response",
+  "type":"object",
+  "required":["id","text","metadata"],
+  "properties":{
+    "id":{"type":"string"},
+    "text":{"type":"string"},
+    "metadata":{"type":"object"}
+  }
+}

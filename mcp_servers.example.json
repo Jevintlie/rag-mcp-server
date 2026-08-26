@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "name": "sunway-rag",
+      "command": "sunway-rag-mcp",
+      "args": ["--stdio"],
+      "env": {
+        "DATA_DIR": "C:/path/to/sunway-rag-data"
+      },
+      "timeout_ms": 120000
+    }
+  ]
+}

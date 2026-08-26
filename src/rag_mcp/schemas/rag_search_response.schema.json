@@ -1,0 +1,30 @@
+{ "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"rag.search.response",
+  "type":"object",
+  "required":["results"],
+  "properties":{
+    "results":{
+      "type":"array",
+      "items":{
+        "type":"object",
+        "required":["id","text","score","metadata"],
+        "properties":{
+          "id":{"type":"string"},
+          "text":{"type":"string"},
+          "score":{"type":"number"},
+          "metadata":{
+            "type":"object",
+            "properties":{
+              "programme_name":{"type":"string"},
+              "section":{"type":"string","enum":["fees","overview","structure"]},
+              "year":{"type":["integer","null"]},
+              "url":{"type":"string","format":"uri"},
+              "last_fetched":{"type":"string","format":"date"}
+            },
+            "additionalProperties": true
+          }
+        }
+      }
+    }
+  }
+}
